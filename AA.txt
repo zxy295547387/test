@@ -1,2 +1,3 @@
 =========AAAw
 B用户改了AA.txt
+BBBBBBB
